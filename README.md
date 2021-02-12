@@ -1,6 +1,8 @@
 Pixel County
 ===========
 
-Three old pixel fonts. Use in 10pt increments (as low as 10pt, then 20pt, 30pt, etc.)
+Three old pixel fonts: Boo City; Coolville; Simpletown;
 
-More info at http://www.finck.co/pixelcounty
+Use in 10pt increments (as low as 10pt, then 20pt, 30pt, etc.)
+
+![pixel county classics](pixelcounty.png "thres pixel fonts")
